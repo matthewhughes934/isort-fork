@@ -2667,9 +2667,9 @@ test = ["big-O", "jaraco.functools", "jaraco.itertools", "jaraco.test", "more-it
 
 [extras]
 colors = ["colorama"]
-plugins = []
+plugins = ["setuptools"]
 
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8.0"
-content-hash = "0a85e3500b4eba68bd5da197c59470cf49c18b200a2c0ebaa8b71af2a2cb4f71"
+content-hash = "5743c600c3ddd2c8e650a7b9dfcd24ec964ee6f759492125b0fb229d0d97f20e"
