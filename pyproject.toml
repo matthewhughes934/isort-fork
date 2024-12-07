@@ -40,7 +40,7 @@ include = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.8.0"
+python = ">=3.8.1"
 colorama = {version = ">=0.4.6", optional = true}
 setuptools = {version = "*", optional = true}
 
